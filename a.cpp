@@ -1,0 +1,3 @@
+bool socorro{
+    print(oi)
+}
